@@ -12,7 +12,9 @@
 ## Warning
 
 My tool is probably more slow than genefit tool (but imagine paying 5$ for a checker lol)
+
 I never tried the genefit tool but I know how it works so I did this
+
 Maybe original Checky is writen in Golang, but mine is in Python
 
 ## Features
