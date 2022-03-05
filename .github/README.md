@@ -9,8 +9,9 @@
 
 <img src="./preview.png">
 
-## Warning! My tool is probably more slow than genefit tool
+## Warning
 
+My tool is probably more slow than genefit tool
 I never tried the genefit tool but I know how it works so I did this
 Maybe original Checky is writen in Golang, but mine is in Python
 
@@ -22,7 +23,7 @@ Maybe original Checky is writen in Golang, but mine is in Python
 
 ## Todo
 
-- [ ] merge my [generator](https://github.com/Mewzax/Checky-Free) with this repo
+- [ ] merge my [generator](https://github.com/Mewzax/Discord-Invite-Generator) with this repo
 
 ## Built with
 
