@@ -1,0 +1,22 @@
+{
+    "min_members": 100,
+    "max_members": 10000,
+
+    "path_servers": "servers.txt",
+
+    "path_invalid": "invalids.txt",
+    "save_invalid": "false",
+
+    "path_valid": "valids.txt",
+    "save_valid": "true",
+
+    "path_too_few_members": "few.txt",
+    "save_too_few_members": "false",
+
+    "path_too_many_members": "many.txt",
+    "save_too_many_members": "false",
+
+    "use_proxies": "false",
+    "path_proxies": "proxies.txt",
+    "proxy_timeout": 4
+}
