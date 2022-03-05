@@ -3,7 +3,7 @@
 <img src="./avatar.png">
 </p>
 
-<h4 align='center'>✉️ A simple tool to create, check then store discord invites</h4>
+<h4 align='center'>💰 a free alternative of the tool by genefits</h4>
 
 ## Preview
 <img src="./preview.png">
